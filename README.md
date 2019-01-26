@@ -1,3 +1,13 @@
+# Today 
+https://gist.github.com/markerikson/ea4d0a6ce56ee479fe8b356e099f857e
+https://medium.com/@learnreact/container-components-c0e67432e005
+https://www.youtube.com/watch?v=JUuic7mEs-s
+https://www.youtube.com/watch?v=kJeXr1K3nyg
+https://www.youtube.com/watch?v=1QI-UE3-0PU
+https://www.youtube.com/watch?v=ZKCYqJu4n3s&index=3&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+
+
+
 # articles-to-read
 Guardian's programming 
 https://github.com/guardian/pairing-tests
